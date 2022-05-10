@@ -36,7 +36,7 @@ function About(){
     <>
       <nav>
         <ul className='my-list'>
-          <li><Link to="/mygitpage/home">Home</Link></li>
+          <li><Link to="/mygitpage/">Home</Link></li>
           <li>About</li>
           <li><Link to="/mygitpage/privacy">Privacy</Link></li>
         </ul>
@@ -56,7 +56,7 @@ function Privacy(){
     <>
       <nav>
         <ul className='my-list'>
-          <li><Link to="/mygitpage/home">Home</Link></li>
+          <li><Link to="/mygitpage/">Home</Link></li>
           <li><Link to="/mygitpage/about">About</Link></li>
           <li>Privacy</li>
         </ul>
